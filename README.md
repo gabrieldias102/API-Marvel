@@ -14,8 +14,9 @@ Esse projeto tem como objetivo, a criação de um site dinâmico, em que o usuá
 Visto que não possuí nenhuma biblioteca adicional, não é necessário nenhuma instalação, para execução local é necessário apenas baixar todos os arquivos do repositório para sua máquina e executar a 'index.html'. Caso deseje adicionar à um servidor não local (como o de um provedo de hospedagem, por exemplo), pode adicionar todos os arquivos à 'www' do seu domínio, via FTP.
 
 <h4>:white_circle: Links</h4>
-- API MARVEL: https://developer.marvel.com/docs
-- Documentação da API: https://developer.marvel.com/documentation/generalinfo
+<ul>
+<li> API MARVEL: https://developer.marvel.com/docs</li> 
+<li> Documentação da API: https://developer.marvel.com/documentation/generalinfo</li>
 
 <h4>:white_circle: Licença </h4>
 Não se aplica. 
