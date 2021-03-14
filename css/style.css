@@ -1,0 +1,105 @@
+body {
+  background-image: url("../img/marvelBackground.gif");
+  font-family: "Oswald", sans-serif;  
+}
+
+.navbar {
+  font-family:'Marvel', sans-serif;
+  background-color: #AA0505;
+  font-weight: bold;
+  text-align: center;
+}
+.navbar-h1{
+  color: white;
+  font-size: 7vh;
+}
+.container{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  margin: auto;
+}
+
+.hero-infos {
+  margin: auto;
+  display: inline-block;
+  justify-content: space-evenly;
+  padding-left: 15px;
+  text-align: center;
+}
+
+#marvel-row {
+  padding: 15px;
+}
+
+.hero-infos.h2{
+  font-weight: bold;
+}
+
+.submit-form {
+  color: white;
+  align-items: center;
+  display: block;
+  text-align: center;
+}
+
+.img-thumbnail {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.fa {
+  padding: 1rem;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 10%;
+}
+
+.submit-form {
+  background-image: linear-gradient(#6A0C0B, #AA0505 80%);
+  position: block;
+  padding: 15px;
+  text-align: center;
+}
+
+.hero-infos {
+  background-color: white;
+  align-items: center;
+  padding: 10px;
+}
+.hero-text {
+  background-color:lightgray;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+footer {   
+  background-image: linear-gradient(#AA0505, #6A0C0B 80%);
+  position:block;
+  text-align: center;
+  width:100%;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-instagram {
+  background: #6A0C0B;
+  color: white;
+}
+
+.fa-twitter {
+  background: #4B0908;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #6A0C0B;
+  color: white;
+}
