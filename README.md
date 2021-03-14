@@ -17,6 +17,6 @@ Visto que não possuí nenhuma biblioteca adicional, não é necessário nenhuma
 <ul>
 <li> API MARVEL: https://developer.marvel.com/docs</li> 
 <li> Documentação da API: https://developer.marvel.com/documentation/generalinfo</li>
-
+</ul>
 <h4>:white_circle: Licença </h4>
 Não se aplica. 
