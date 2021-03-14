@@ -23,5 +23,12 @@ Visto que não possuí nenhuma biblioteca adicional, não é necessário nenhuma
 <li> Documentação da API: https://developer.marvel.com/documentation/generalinfo.</li>
 </ul>
 
+<h4>:white_circle: Contato </h4>
+<ul>
+<li>Gabriel Dias - contatogbd@gmail.com</li>
+<li>linkedin.com/in/gabrieldias102/</li>
+<li>twitter.com/days_gabriel</li>
+</ul>
+
 <h4>:white_circle: Licença </h4>
 Não se aplica. 
