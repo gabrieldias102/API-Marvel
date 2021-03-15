@@ -10,25 +10,23 @@
     <div class="navbar">
       <h1 class="navbar-h1">MARVEL API</h1>
       <style>
-        @import url('https://fonts.googleapis.com/css2?family=Marvel:wght@700&display=swap');
+        @import url("https://fonts.googleapis.com/css2?family=Marvel:wght@700&display=swap");
       </style>
     </div>
 
     <div class="container">
-      <div class="row" id="marvel-row"> </div>
+      <div class="row" id="marvel-row"></div>
     </div>
     <div class="submit-form" action="js/app.js">
       <form class="css-form">
-        Teste você, pesquise seu herói:
+        Teste você, pesquise seu herói (em inglês):
         <input
           id="pesquisa"
           type="text"
           name="name"
-          />
-          <input
-          type="submit" 
-          onclick="functionByUser()" 
+          placeholder="hulk, vision, loki, thanos..."
         />
+        <input type="submit" onclick="heroByUser()" />
       </form>
     </div>
   </body>
