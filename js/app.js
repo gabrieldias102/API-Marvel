@@ -13,6 +13,8 @@ function clearFields(textBox) {
   document.getElementById(textBox).value = "";
 }
 
+//não sei qq eu fiz mas deu certo
+
 function showHero(chosenHero) {
   const urlAPI = `https://gateway.marvel.com/v1/public/characters?name=${chosenHero}&ts=1&apikey=e19ceca6efc686a15dbe4fbc6533d381&hash=30d109de6ccc288ebb3a98896715e30e`;
   fetch(urlAPI)
